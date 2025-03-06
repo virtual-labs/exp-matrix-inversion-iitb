@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Matrix inversion method is _______________________",
+        "qid": 1,
+        "option_a": "Direct method",
+        "option_b": "Iterative method",
+        "option_c": "",
+        "option_d": "",
+        "correct_option": "a"
+    },
+    {
+        "question": "Which is not a part of Matrix inversion method?",
+        "qid": 2,
+        "option_a": "Back substitution method",
+        "option_b": "Diagonalization of coefficient matrix",
+        "option_c": "Partial pivoting",
+        "option_d": "Matrix inversion",
+        "correct_option": "a"
+    }
+]
